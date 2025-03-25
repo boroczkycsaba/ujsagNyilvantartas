@@ -12,7 +12,7 @@ import java.util.Optional;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Újság nyílvántartó program indul");
+        System.out.println("Újság nyilvántartó program indul");
         System.out.println("");
         String ujsagCSVFileNev = "src/adatok/ujsagok.csv";
         if (args.length > 0 && args[0] != null) {
